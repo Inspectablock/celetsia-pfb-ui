@@ -1,0 +1,8 @@
+.env
+docker-compose.yml
+Dockerfile
+node_modules
+.eslintcache
+.editorconfig
+package-lock.json
+yarn.lock
