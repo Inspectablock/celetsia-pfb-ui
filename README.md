@@ -13,7 +13,7 @@ It provides a UI to interact with the Celestia blockchain by submitting PayForBl
 Clone this repository
 
 ```
-$ git clone https://github.com/jbroudou/t1.git
+$ git clone https://github.com/Inspectablock/celetsia-pfb-ui.git
 ```
 
 Create the `.env` file and point the endpoint variable to your Celestia node.
